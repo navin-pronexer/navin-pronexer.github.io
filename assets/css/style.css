@@ -1788,6 +1788,12 @@ Google map
   font-size: 16px;
   padding-top: 25px;
 }
+.price-table p.price span.bottom-mth {
+  display: inline-block;
+  vertical-align: bottom;
+  font-size: 16px;
+  padding-bottom: 25px;
+}
 
 .price-details {
   list-style: none;
@@ -2923,5 +2929,9 @@ Google map
   .works-grid-4 .work-item,
   .works-grid-5 .work-item {
     width: 100%;
+  }
+
+  .features-text {
+    font-size: 10px;
   }
 }
